@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>GK_Lab7</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>textures/brick.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/GK_todo/L07/Lab7/brick.jpg</locationURI>
+		</link>
+		<link>
+			<name>textures/clouds.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/GK_todo/L07/Lab7/clouds.jpg</locationURI>
+		</link>
+		<link>
+			<name>textures/earth.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/GK_todo/L07/Lab7/earth.jpg</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
